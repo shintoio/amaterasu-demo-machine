@@ -1,8 +1,8 @@
-#Amaterasu Dev Machine Vagrant Setup
+# Amaterasu Dev Machine Vagrant Setup
 
 This repository contains the vagrentfile and provisioning script for creating an Amaterasu dev machine.
 
-##prerequisites
+## prerequisites
 
 Before you create a dev machine, make sure you have the Ametarasu source code, to do so, simply clone the Amaterasu git repo:
 
